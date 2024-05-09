@@ -4,7 +4,7 @@ maiorData(): Esta função compara duas datas inseridas pelo usuário e exibe qu
 calcularIntervalo(): Esta função calcula o intervalo em dias entre duas datas inseridas pelo usuário e exibe o resultado.
 
 dataAtual(): Esta função obtém a data e hora atuais do sistema e as formata para exibição.
-Cada função usa o método getElementById() para obter os valores dos campos de entrada do HTML com IDs "data1" e "data2", e então manipula esses valores conforme necessário para realizar as operações desejadas. Os resultados são exibidos no elemento HTML com ID "resultado".
+Cada função usa o método getElementById() para obter os valores dos campos de entrada do HTML com IDs "data1" e "data2", e então manipula esses valores conforme necessário para realizar as operações desejadas. Os resultados são exibidos no elemento HTML que possui o ID "resultado".
 
 getHours(): Este método é usado em objetos Date para obter a hora (0-23) da data especificada.
 
